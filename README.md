@@ -1,5 +1,5 @@
 # Shop-App
-<b>Shop App</b> is a simple web app. In this <b>Shop web app </b> we can add products, image, price and description dynamically.<br>The purpose of this project to implement my mongoDB knowledge.<br>
+<b>Shop App</b> is a simple web app. In this <b>Shop web app </b> we can add products, image, price and description dynamically.<br>The purpose of this project to implement mongoDB knowledge.<br>
 **Technologies Used:** HTML, CSS, JavaScript, Node.js, Express.js, Mongodb, React.js and many libraries for make it secure.<br>
 #### Setup the Project
 1. Clone or Download the Repo.
